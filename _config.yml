@@ -6,15 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Wagner Silva
 
 # Your name to show in the footer
-author: Some Person
+author: Wagner J.F. Silva
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I'm Statistician, master, and Ph.D. candidate in Computer Science. Researcher in machine learning algorithms with statistical support.
+  Creator of a new type of data, known as polygonal symbolic data, and many techniques to understand it. Known for professional lightness, communication,
+  and empath. Extremely motivated by new challenges and exploring the dreaded unknown. In addition to being a lover of Silmarillion, Lord of the rings, and difficult games
+  such as the souls' serie and hollow knight series."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -39,14 +42,16 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "wagnerjorgesilva@hotmail.com"
+#   facebook: deanattali
+  github: wagnerjorge
+  linkedin: www.linkedin.com/in/wjfs
+  lattes: http://lattes.cnpq.br/1852039375908019
+#   twitter: daattali
+#   patreon: DeanAttali
+#   youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+ 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -64,20 +69,20 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+#   twitter: true
+#   facebook: true
   linkedin: true
-  vk: false
+#   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
